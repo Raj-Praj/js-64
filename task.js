@@ -77,3 +77,4 @@ for(let i=0;i<product.length;i++){
     console.log("Discount:"+product[i].discount);
     console.log("------");
 }
+//hello i am committing this file
