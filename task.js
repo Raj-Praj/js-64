@@ -78,3 +78,5 @@ for(let i=0;i<product.length;i++){
     console.log("------");
 }
 //hello i am committing this file
+
+//what is the output of the following code?
